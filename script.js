@@ -4,3 +4,9 @@ buttonCalcular.onclick=function(){
     alert(mediaGeral);   
 
 }
+buttonLimpar.onclick=function(){
+    nota1.value="";
+    nota2.value="";
+    nota3.value="";
+    
+}
