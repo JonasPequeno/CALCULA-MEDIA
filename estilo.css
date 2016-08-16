@@ -1,8 +1,16 @@
+#imagemFundo{
+    background-image: url(imagens/img-fundo.png);
+    background-size:cover;
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+    
+}
 
 
 #formulario{
     position:relative;
-    top:200px;
+    top:-400px;
     padding:2%;
     width: 23%;
     border:2px solid;
