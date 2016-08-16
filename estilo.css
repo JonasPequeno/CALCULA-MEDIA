@@ -18,3 +18,8 @@
     
 }
 
+#resultado{
+    position:relative;
+    top:-350px;
+    font-size:15pt;
+}
