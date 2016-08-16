@@ -1,4 +1,11 @@
-#Formulario{
-    border-width: medium;
+
+
+#formulario{
+    position:relative;
+    top:200px;
+    padding:2%;
+    width: 23%;
+    border:2px solid;
     border-color: black;
+    
 }
